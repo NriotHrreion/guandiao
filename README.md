@@ -50,6 +50,4 @@ _前羽：夷吾_
 
 ## 其他
 
-[观钓练习题](./Practice.md)
-
-[其它版本](./GuandiaoSister.md)
+[其它版本](./other.md)
